@@ -1,0 +1,26 @@
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\Teste\bin\Debug\Teste.dll
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\Teste\bin\Debug\Teste.pdb
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\Teste\bin\Debug\TesteRecursaoT1.exe
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\Teste\bin\Debug\TesteRecursaoT1.pdb
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\Teste\obj\Debug\Teste.dll
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\Teste\obj\Debug\Teste.pdb
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\Teste\bin\Debug\Teste.dll
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\Teste\bin\Debug\Teste.pdb
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\Teste\bin\Debug\TesteRecursaoT1.exe
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\Teste\bin\Debug\TesteRecursaoT1.pdb
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\Teste\obj\Debug\Teste.dll
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\Teste\obj\Debug\Teste.pdb
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\bin\Debug\Teste.dll
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\bin\Debug\Teste.pdb
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\bin\Debug\TesteRecursaoT1.exe
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\bin\Debug\TesteRecursaoT1.pdb
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\bin\Debug\TesteRecursaoT1.exe.config
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\obj\Debug\Teste.dll
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\Teste\obj\Debug\Teste.pdb

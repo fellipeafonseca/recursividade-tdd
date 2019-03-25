@@ -1,0 +1,25 @@
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.exe.config
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.exe
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.pdb
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.Properties.Resources.resources
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csproj.GenerateResource.Cache
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.exe
+C:\Users\Fellipe\Desktop\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.pdb
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.exe.config
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.exe
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.pdb
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csprojResolveAssemblyReference.cache
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.Properties.Resources.resources
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csproj.GenerateResource.Cache
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.exe
+C:\Users\Agustinho\Documents\estrutura de dados\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.pdb
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.exe.config
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.exe
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.pdb
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csprojAssemblyReference.cache
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.Properties.Resources.resources
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csproj.GenerateResource.cache
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.exe
+C:\Users\Fellipe\Documents\tste\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.pdb
